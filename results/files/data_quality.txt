@@ -1,0 +1,92 @@
+#################################################
+############ DATA QUALITY RESULT ################
+#################################################
+
+Number of sample in data set:284807.
+Number of classes in data set: 2 and they are: [0 1].
+Columns in data set:['Time', 'V1', 'V2', 'V3', 'V4', 'V5', 'V6', 'V7', 'V8', 'V9', 'V10', 'V11', 'V12', 'V13', 'V14', 'V15', 'V16', 'V17', 'V18', 'V19', 'V20', 'V21', 'V22', 'V23', 'V24', 'V25', 'V26', 'V27', 'V28', 'Amount', 'Class'].
+
+Empty DataFrame
+Columns: []
+Index: [].
+
+
+
+############## SUMMARY STATISTICS ###############
+
+           count          mean  ...            75%            max
+Time    284807.0  9.481386e+04  ...  139320.500000  172792.000000
+V1      284807.0  3.919560e-15  ...       1.315642       2.454930
+V2      284807.0  5.688174e-16  ...       0.803724      22.057729
+V3      284807.0 -8.769071e-15  ...       1.027196       9.382558
+V4      284807.0  2.782312e-15  ...       0.743341      16.875344
+V5      284807.0 -1.552563e-15  ...       0.611926      34.801666
+V6      284807.0  2.010663e-15  ...       0.398565      73.301626
+V7      284807.0 -1.694249e-15  ...       0.570436     120.589494
+V8      284807.0 -1.927028e-16  ...       0.327346      20.007208
+V9      284807.0 -3.137024e-15  ...       0.597139      15.594995
+V10     284807.0  1.768627e-15  ...       0.453923      23.745136
+V11     284807.0  9.170318e-16  ...       0.739593      12.018913
+V12     284807.0 -1.810658e-15  ...       0.618238       7.848392
+V13     284807.0  1.693438e-15  ...       0.662505       7.126883
+V14     284807.0  1.479045e-15  ...       0.493150      10.526766
+V15     284807.0  3.482336e-15  ...       0.648821       8.877742
+V16     284807.0  1.392007e-15  ...       0.523296      17.315112
+V17     284807.0 -7.528491e-16  ...       0.399675       9.253526
+V18     284807.0  4.328772e-16  ...       0.500807       5.041069
+V19     284807.0  9.049732e-16  ...       0.458949       5.591971
+V20     284807.0  5.085503e-16  ...       0.133041      39.420904
+V21     284807.0  1.537294e-16  ...       0.186377      27.202839
+V22     284807.0  7.959909e-16  ...       0.528554      10.503090
+V23     284807.0  5.367590e-16  ...       0.147642      22.528412
+V24     284807.0  4.458112e-15  ...       0.439527       4.584549
+V25     284807.0  1.453003e-15  ...       0.350716       7.519589
+V26     284807.0  1.699104e-15  ...       0.240952       3.517346
+V27     284807.0 -3.660161e-16  ...       0.091045      31.612198
+V28     284807.0 -1.206049e-16  ...       0.078280      33.847808
+Amount  284807.0  8.834962e+01  ...      77.165000   25691.160000
+Class   284807.0  1.727486e-03  ...       0.000000       1.000000
+
+[31 rows x 8 columns].
+
+
+
+############## NUMBER OF DUPLICATED ROWS ###############
+
+1081.
+
+
+
+############## NULL PERCENTAGES #################
+
+Column: Time  percent of null values:  %0.0.
+Column: V1  percent of null values:  %0.0.
+Column: V2  percent of null values:  %0.0.
+Column: V3  percent of null values:  %0.0.
+Column: V4  percent of null values:  %0.0.
+Column: V5  percent of null values:  %0.0.
+Column: V6  percent of null values:  %0.0.
+Column: V7  percent of null values:  %0.0.
+Column: V8  percent of null values:  %0.0.
+Column: V9  percent of null values:  %0.0.
+Column: V10  percent of null values:  %0.0.
+Column: V11  percent of null values:  %0.0.
+Column: V12  percent of null values:  %0.0.
+Column: V13  percent of null values:  %0.0.
+Column: V14  percent of null values:  %0.0.
+Column: V15  percent of null values:  %0.0.
+Column: V16  percent of null values:  %0.0.
+Column: V17  percent of null values:  %0.0.
+Column: V18  percent of null values:  %0.0.
+Column: V19  percent of null values:  %0.0.
+Column: V20  percent of null values:  %0.0.
+Column: V21  percent of null values:  %0.0.
+Column: V22  percent of null values:  %0.0.
+Column: V23  percent of null values:  %0.0.
+Column: V24  percent of null values:  %0.0.
+Column: V25  percent of null values:  %0.0.
+Column: V26  percent of null values:  %0.0.
+Column: V27  percent of null values:  %0.0.
+Column: V28  percent of null values:  %0.0.
+Column: Amount  percent of null values:  %0.0.
+Column: Class  percent of null values:  %0.0.
